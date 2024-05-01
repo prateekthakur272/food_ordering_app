@@ -1,16 +1,29 @@
-# food_ordering_app
+# Food Ordering Application
 
-A new Flutter project.
+This project is ui of a food ordering application built using flutter and bloc
+
+## Requirements
+
+* [flutter](https://docs.flutter.dev/)
+* [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+* [equatable](https://pub.dev/packages/equatable)
 
 ## Getting Started
+1. Clone project.
+   
+   ```bash
+   git chone https://github.com/prateekthakur272/food_ordering_app.git
+   ```
+2. Install packages.
+    ```bash
+   flutter pub get
+   ```
+3. Run project.
+    ```bash
+   flutter run
+   ```
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="319" alt="Screenshot 2024-04-25 at 11 40 15 PM" src="https://github.com/prateekthakur272/food_ordering_app/assets/67188426/08c80fe7-182c-46b0-888b-2797636a3fc3">
+<img width="319" alt="Screenshot 2024-04-25 at 11 40 09 PM" src="https://github.com/prateekthakur272/food_ordering_app/assets/67188426/8cf8d5f5-b09a-4c0d-a353-7e5204fabede">
